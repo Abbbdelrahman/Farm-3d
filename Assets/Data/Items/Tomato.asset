@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8d7e201b9f3e4547a54992fe53d1b01, type: 3}
+  m_Name: Tomato
+  m_EditorClassIdentifier: 
+  description: Technically a fruit
+  thumbnail: {fileID: -429837186, guid: 0dfbf2c66ec5e8d40839a014cb368664, type: 3}
+  gameModel: {fileID: 2797425454512852173, guid: 2a52903f615de1e46b4a10ff5edb2d27, type: 3}

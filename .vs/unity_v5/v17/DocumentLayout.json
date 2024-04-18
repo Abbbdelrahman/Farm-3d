@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\unity_game\\unity_v5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{341D28DA-597D-FE38-24D7-4170C48EF62F}|Assembly-CSharp.csproj|F:\\unity_game\\unity_v5\\assets\\scripts\\ui\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D28DA-597D-FE38-24D7-4170C48EF62F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D28DA-597D-FE38-24D7-4170C48EF62F}|Assembly-CSharp.csproj|F:\\unity_game\\unity_v5\\assets\\scripts\\ui\\handinventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D28DA-597D-FE38-24D7-4170C48EF62F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\handinventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D28DA-597D-FE38-24D7-4170C48EF62F}|Assembly-CSharp.csproj|F:\\unity_game\\unity_v5\\assets\\scripts\\invetory\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D28DA-597D-FE38-24D7-4170C48EF62F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\invetory\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D28DA-597D-FE38-24D7-4170C48EF62F}|Assembly-CSharp.csproj|F:\\unity_game\\unity_v5\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D28DA-597D-FE38-24D7-4170C48EF62F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D28DA-597D-FE38-24D7-4170C48EF62F}|Assembly-CSharp.csproj|F:\\unity_game\\unity_v5\\assets\\scripts\\time\\gametimestamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D28DA-597D-FE38-24D7-4170C48EF62F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\time\\gametimestamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D28DA-597D-FE38-24D7-4170C48EF62F}|Assembly-CSharp.csproj|f:\\unity_game\\unity_v5\\assets\\scripts\\time\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D28DA-597D-FE38-24D7-4170C48EF62F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\time\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D28DA-597D-FE38-24D7-4170C48EF62F}|Assembly-CSharp.csproj|f:\\unity_game\\unity_v5\\assets\\scripts\\time\\itimetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D28DA-597D-FE38-24D7-4170C48EF62F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\time\\itimetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341D28DA-597D-FE38-24D7-4170C48EF62F}|Assembly-CSharp.csproj|F:\\unity_game\\unity_v5\\assets\\scripts\\land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341D28DA-597D-FE38-24D7-4170C48EF62F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Land.cs",
+              "DocumentMoniker": "F:\\unity_game\\unity_v5\\Assets\\Scripts\\Land.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Land.cs",
+              "ToolTip": "F:\\unity_game\\unity_v5\\Assets\\Scripts\\Land.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Land.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAMwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T22:50:38.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITimeTracker.cs",
+              "DocumentMoniker": "F:\\unity_game\\unity_v5\\Assets\\Scripts\\Time\\ITimeTracker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Time\\ITimeTracker.cs",
+              "ToolTip": "F:\\unity_game\\unity_v5\\Assets\\Scripts\\Time\\ITimeTracker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Time\\ITimeTracker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T00:24:56.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TimeManager.cs",
+              "DocumentMoniker": "F:\\unity_game\\unity_v5\\Assets\\Scripts\\Time\\TimeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Time\\TimeManager.cs",
+              "ToolTip": "F:\\unity_game\\unity_v5\\Assets\\Scripts\\Time\\TimeManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Time\\TimeManager.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAswFYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T00:00:58.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameTimeStamp.cs",
+              "DocumentMoniker": "F:\\unity_game\\unity_v5\\Assets\\Scripts\\Time\\GameTimeStamp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Time\\GameTimeStamp.cs",
+              "ToolTip": "F:\\unity_game\\unity_v5\\Assets\\Scripts\\Time\\GameTimeStamp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Time\\GameTimeStamp.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAYwI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T23:38:56.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "F:\\unity_game\\unity_v5\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ToolTip": "F:\\unity_game\\unity_v5\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T21:12:08.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "F:\\unity_game\\unity_v5\\Assets\\Scripts\\invetory\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\invetory\\InventoryManager.cs",
+              "ToolTip": "F:\\unity_game\\unity_v5\\Assets\\Scripts\\invetory\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\invetory\\InventoryManager.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAowAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T21:45:01.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HandInventorySlot.cs",
+              "DocumentMoniker": "F:\\unity_game\\unity_v5\\Assets\\Scripts\\UI\\HandInventorySlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\HandInventorySlot.cs",
+              "ToolTip": "F:\\unity_game\\unity_v5\\Assets\\Scripts\\UI\\HandInventorySlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\HandInventorySlot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T21:54:50.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventorySlot.cs",
+              "DocumentMoniker": "F:\\unity_game\\unity_v5\\Assets\\Scripts\\UI\\InventorySlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\InventorySlot.cs",
+              "ToolTip": "F:\\unity_game\\unity_v5\\Assets\\Scripts\\UI\\InventorySlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\InventorySlot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T21:34:45.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
