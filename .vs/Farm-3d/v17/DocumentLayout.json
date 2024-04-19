@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Farm-3d\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|d:\\farm-3d\\assets\\scripts\\ui\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|D:\\Farm-3d\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|D:\\Farm-3d\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|D:\\Farm-3d\\assets\\scripts\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|D:\\Farm-3d\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|D:\\Farm-3d\\assets\\scripts\\ui\\handinventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\handinventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|D:\\Farm-3d\\assets\\scripts\\time\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\time\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|D:\\Farm-3d\\assets\\scripts\\time\\itimetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\time\\itimetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|D:\\Farm-3d\\assets\\scripts\\time\\gametimestamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\time\\gametimestamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|D:\\Farm-3d\\assets\\scripts\\invetory\\equipmentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\invetory\\equipmentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|D:\\Farm-3d\\assets\\scripts\\invetory\\inteactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\invetory\\inteactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|D:\\Farm-3d\\assets\\scripts\\invetory\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\invetory\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|D:\\Farm-3d\\assets\\scripts\\invetory\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\invetory\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|D:\\Farm-3d\\assets\\scripts\\farming\\cropbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farming\\cropbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|D:\\Farm-3d\\assets\\scripts\\farming\\growableharvestbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farming\\growableharvestbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|D:\\Farm-3d\\assets\\scripts\\farming\\land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\farming\\land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|D:\\Farm-3d\\assets\\scripts\\invetory\\itemslotdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\invetory\\itemslotdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|D:\\Farm-3d\\assets\\scripts\\invetory\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5025CB4-E943-F4DF-3E80-8888FD6B4E4C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\invetory\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "D:\\Farm-3d\\Assets\\Scripts\\invetory\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\invetory\\InventoryManager.cs",
+              "ToolTip": "D:\\Farm-3d\\Assets\\Scripts\\invetory\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\invetory\\InventoryManager.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwEgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:13:49.941Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ItemSlotData.cs",
+              "DocumentMoniker": "D:\\Farm-3d\\Assets\\Scripts\\invetory\\ItemSlotData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\invetory\\ItemSlotData.cs",
+              "ToolTip": "D:\\Farm-3d\\Assets\\Scripts\\invetory\\ItemSlotData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\invetory\\ItemSlotData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:08:49.064Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Land.cs",
+              "DocumentMoniker": "D:\\Farm-3d\\Assets\\Scripts\\Farming\\Land.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Farming\\Land.cs",
+              "ToolTip": "D:\\Farm-3d\\Assets\\Scripts\\Farming\\Land.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Farming\\Land.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAcwFcAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:26:50.434Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GrowableHarvestBehaviour.cs",
+              "DocumentMoniker": "D:\\Farm-3d\\Assets\\Scripts\\Farming\\GrowableHarvestBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Farming\\GrowableHarvestBehaviour.cs",
+              "ToolTip": "D:\\Farm-3d\\Assets\\Scripts\\Farming\\GrowableHarvestBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Farming\\GrowableHarvestBehaviour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:26:46.625Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CropBehaviour.cs",
+              "DocumentMoniker": "D:\\Farm-3d\\Assets\\Scripts\\Farming\\CropBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Farming\\CropBehaviour.cs",
+              "ToolTip": "D:\\Farm-3d\\Assets\\Scripts\\Farming\\CropBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Farming\\CropBehaviour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:26:43.472Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\Farm-3d\\Assets\\Scripts\\invetory\\SeedData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\invetory\\SeedData.cs",
+              "ToolTip": "D:\\Farm-3d\\Assets\\Scripts\\invetory\\SeedData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\invetory\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:26:37.418Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemData.cs",
+              "DocumentMoniker": "D:\\Farm-3d\\Assets\\Scripts\\invetory\\ItemData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\invetory\\ItemData.cs",
+              "ToolTip": "D:\\Farm-3d\\Assets\\Scripts\\invetory\\ItemData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\invetory\\ItemData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:26:29.983Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InteactableObject.cs",
+              "DocumentMoniker": "D:\\Farm-3d\\Assets\\Scripts\\invetory\\InteactableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\invetory\\InteactableObject.cs",
+              "ToolTip": "D:\\Farm-3d\\Assets\\Scripts\\invetory\\InteactableObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\invetory\\InteactableObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:26:23.877Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EquipmentData.cs",
+              "DocumentMoniker": "D:\\Farm-3d\\Assets\\Scripts\\invetory\\EquipmentData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\invetory\\EquipmentData.cs",
+              "ToolTip": "D:\\Farm-3d\\Assets\\Scripts\\invetory\\EquipmentData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\invetory\\EquipmentData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:26:20.929Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\Farm-3d\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "D:\\Farm-3d\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:53:18.056Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Farm-3d\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\Farm-3d\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:53:27.14Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerInteraction.cs",
+              "DocumentMoniker": "D:\\Farm-3d\\Assets\\Scripts\\PlayerInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInteraction.cs",
+              "ToolTip": "D:\\Farm-3d\\Assets\\Scripts\\PlayerInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInteraction.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAcwHMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:53:31.73Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\Farm-3d\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ToolTip": "D:\\Farm-3d\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAYwG4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:25:17.018Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventorySlot.cs",
+              "DocumentMoniker": "D:\\Farm-3d\\Assets\\Scripts\\UI\\InventorySlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\InventorySlot.cs",
+              "ToolTip": "D:\\Farm-3d\\Assets\\Scripts\\UI\\InventorySlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\InventorySlot.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:25:31.36Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HandInventorySlot.cs",
+              "DocumentMoniker": "D:\\Farm-3d\\Assets\\Scripts\\UI\\HandInventorySlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\HandInventorySlot.cs",
+              "ToolTip": "D:\\Farm-3d\\Assets\\Scripts\\UI\\HandInventorySlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\HandInventorySlot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:25:50.534Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimeManager.cs",
+              "DocumentMoniker": "D:\\Farm-3d\\Assets\\Scripts\\Time\\TimeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Time\\TimeManager.cs",
+              "ToolTip": "D:\\Farm-3d\\Assets\\Scripts\\Time\\TimeManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Time\\TimeManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:26:07.162Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITimeTracker.cs",
+              "DocumentMoniker": "D:\\Farm-3d\\Assets\\Scripts\\Time\\ITimeTracker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Time\\ITimeTracker.cs",
+              "ToolTip": "D:\\Farm-3d\\Assets\\Scripts\\Time\\ITimeTracker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Time\\ITimeTracker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:26:10.123Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameTimeStamp.cs",
+              "DocumentMoniker": "D:\\Farm-3d\\Assets\\Scripts\\Time\\GameTimeStamp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Time\\GameTimeStamp.cs",
+              "ToolTip": "D:\\Farm-3d\\Assets\\Scripts\\Time\\GameTimeStamp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Time\\GameTimeStamp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:26:13.63Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

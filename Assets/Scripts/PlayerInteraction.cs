@@ -82,7 +82,7 @@ public class PlayerInteraction : MonoBehaviour
     public void Interact()
     {
         // the player shouldn't use his tool when hand full
-        if(InventoryManager.Instance.equippedItem != null)
+        if(InventoryManager.Instance.SlotEquipped(InventorySlot.InventoryType.Item))
         {
             return;
         }
@@ -101,7 +101,7 @@ public class PlayerInteraction : MonoBehaviour
     public void ItemIteract()
     {
         // if player holding something, keep it in his inventory
-        if(InventoryManager.Instance.equippedItem != null)
+        if (InventoryManager.Instance.SlotEquipped(InventorySlot.InventoryType.Item))
         {
             InventoryManager.Instance.HandToInventory(InventorySlot.InventoryType.Item);
             return;
