@@ -123,6 +123,7 @@ MonoBehaviour:
   soilMat: {fileID: 2100000, guid: 5d7f0b6768926de42ac35a371229dd09, type: 2}
   farmlandMat: {fileID: 2100000, guid: e689a8c2e96137848bd910acd01798e7, type: 2}
   wateredMat: {fileID: 2100000, guid: fa9a5bb2dc90d4f4386efbd39396645a, type: 2}
+  cropPrefab: {fileID: 0}
   select: {fileID: 5950476114590465272}
 --- !u!1 &5950476114590465272
 GameObject:
