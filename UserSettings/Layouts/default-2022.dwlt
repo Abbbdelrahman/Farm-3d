@@ -189,8 +189,8 @@ MonoBehaviour:
     y: 0
     width: 303.2
     height: 413.6
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -253,7 +253,7 @@ MonoBehaviour:
   - {fileID: 20}
   - {fileID: 13}
   m_Selected: 0
-  m_LastSelected: 2
+  m_LastSelected: 1
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -273,8 +273,8 @@ MonoBehaviour:
     y: 0
     width: 337.59998
     height: 722.8
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 21}
   m_Panes:
   - {fileID: 21}
@@ -769,9 +769,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -5.3132257, y: 2.3649628, z: -4.0269775}
+    m_Target: {x: 9.580673, y: 8.1973295, z: -0.9062702}
     speed: 2
-    m_Value: {x: -5.3132257, y: 2.3649628, z: -4.0269775}
+    m_Value: {x: 9.580673, y: 8.1973295, z: -0.9062702}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -817,13 +817,13 @@ MonoBehaviour:
     m_GridAxis: 2
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.07843218, y: 0.6549376, z: -0.06862421, w: 0.74853164}
+    m_Target: {x: 0.30320022, y: -0.14841343, z: 0.04805571, w: 0.9401543}
     speed: 2
-    m_Value: {x: 0.078345716, y: 0.65580136, z: -0.06871472, w: 0.74770635}
+    m_Value: {x: 0.3031765, y: -0.14840183, z: 0.04805195, w: 0.9400808}
   m_Size:
-    m_Target: 1.2896525
+    m_Target: 0.86892176
     speed: 2
-    m_Value: 4.5000043
+    m_Value: 0.86892176
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -884,24 +884,24 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
+      scrollPos: {x: 0, y: 1116.4}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 428affff0692ffffceabffff8cadffffe2afffff26d0fffff2d4ffffbed6ffff30d8ffff9ae0ffff30fbfffff4fffffffe9d00008c9e0000389f0000aca90000eead000030ae000094ae0000
+      m_ExpandedIDs: 6082ffffc885ffffb2a6ffff1caaffff9ad2ffff92d7ffff24fbffffdacb000050d70000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Player
-        m_OriginalName: Player
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -28160
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 8}
       m_SearchString: 
@@ -1316,7 +1316,7 @@ MonoBehaviour:
     m_ReferencingInstanceIDs: 
     m_SceneHandles: 
     m_ShowAllHits: 0
-    m_SkipHidden: 0
+    m_SkipHidden: 1
     m_SearchArea: 1
     m_Folders:
     - Assets/Scenes
@@ -1329,14 +1329,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: E:\Farm-3d-master\Farm-3d-master
+  m_LastProjectPath: C:\Users\ai752\Downloads\Farm-3d
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 71.80002}
-    m_SelectedIDs: 8a740000
-    m_LastClickedID: 29834
-    m_ExpandedIDs: 00000000587400005a7400005c7400008874000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 90740000
+    m_LastClickedID: 29840
+    m_ExpandedIDs: 000000005a7400008a74000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1364,7 +1364,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000587400005a7400005c740000
+    m_ExpandedIDs: 000000005a7400005c7400005e740000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1391,7 +1391,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300005489000000890000367000004a710000146c0000ee720000646c0000dc7200003065000066620000000000009a7f00006a680000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1418,7 +1418,7 @@ MonoBehaviour:
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 96
-  m_SkipHiddenPackages: 0
+  m_SkipHiddenPackages: 1
   m_DirectoriesAreaWidth: 207
 --- !u!114 &20
 MonoBehaviour:
