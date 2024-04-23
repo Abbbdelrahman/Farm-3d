@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class CropBehaviour : MonoBehaviour
 {
+
+    //The ID of the land the crop belongs to
+    int landID;
     // information in what crop will grow into
     SeedData seedToGrow;
 
@@ -30,38 +33,53 @@ public class CropBehaviour : MonoBehaviour
 
     // initialistion for the crop GameObject
     // called when the player planets the seed
-    public void Plant(SeedData seedToGrow)
+    public void Plant(int landID, SeedData seedToGrow)
     {
+        LoadCrop(landID, seedToGrow, CropState.Seed, 0, 0);
         // save the seed information
+        LandManager.Instance.RegisterCrop(landID, seedToGrow, cropState, growth, health);
+    }
+    public void LoadCrop(int landID, SeedData seedToGrow, CropState cropState, int growth, int health)
+    {
+        this.landID = landID;
+        //Save the seed information
         this.seedToGrow = seedToGrow;
 
-        // set the seedling and harvestable gameobject
+        //Instantiate the seedling and harvestable GameObjects
         seedling = Instantiate(seedToGrow.seedling, transform);
 
-        // access the crop item data
+        //Access the crop item data
         ItemData cropToYield = seedToGrow.cropToYield;
 
-        // Instantiate the harvestable crop
+        //Instantiate the harvestable crop
         harvestable = Instantiate(cropToYield.gameModel, transform);
 
-        // convert the days growth into hours
+        //Convert Days To Grow into hours
         int hoursToGrow = GameTimeStamp.DaysToHours(seedToGrow.daysToGrow);
-        //convert it to minutes
+        //Convert it to minutes
         maxGrowth = GameTimeStamp.HoursToMinutes(hoursToGrow);
 
-        // check if is regrowable
-        if(seedToGrow.regrowbale)
+
+        //Set the growth and health accordingly
+        this.growth = growth;
+        this.health = health;
+
+        //Check if it is regrowable
+        if (seedToGrow.regrowbale)
         {
+            //Get the RegrowableHarvestBehaviour from the GameObject
             RegrowableHarvestBehaviour regrowableHarvest = harvestable.GetComponent<RegrowableHarvestBehaviour>();
-            
+
+            //Initialise the harvestable 
             regrowableHarvest.SetParent(this);
         }
 
-// set the Intial state of seed
-SwitchState(CropState.Seed);
+        //Set the initial state to Seed
+        SwitchState(cropState);
+
     }
 
-     
+
     // the crop will grow if watered
     public void Grow()
     {
@@ -84,6 +102,9 @@ SwitchState(CropState.Seed);
         {
             SwitchState(CropState.Harvestable);
         }
+
+        //Inform LandManager on the changes
+        LandManager.Instance.OnCropStateChange(landID, cropState, growth, health);
     }
 
     public void Wither()
@@ -93,6 +114,9 @@ SwitchState(CropState.Seed);
         {
             SwitchState(CropState.wilted);
         }
+
+        //Inform LandManager on the changes
+        LandManager.Instance.OnCropStateChange(landID, cropState, growth, health);
     }
 
     // function to handle the state changes
@@ -125,7 +149,7 @@ SwitchState(CropState.Seed);
                 {
                     // unparnted the crops
                     harvestable.transform.parent = null;
-                    Destroy(gameObject);
+                    RemoveCrop();
                 }
                 
                 break;
@@ -139,6 +163,13 @@ SwitchState(CropState.Seed);
         cropState = stateToSwitch;
     }
 
+    //Destroys and Deregisters the Crop
+    public void RemoveCrop()
+    {
+        LandManager.Instance.DeregisterCrop(landID);
+        Destroy(gameObject);
+    }
+
     public void Regrow()
     {
         // Reset the growth
@@ -148,4 +179,6 @@ SwitchState(CropState.Seed);
 
         SwitchState(CropState.Seedling);
     }
+
+   
 }

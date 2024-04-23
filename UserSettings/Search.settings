@@ -11,6 +11,9 @@ scopes = {
 	"last_search.7A268750" = "store:2d"
 	"OpenInspectorPreview.7A268750" = "0"
 	"currentGroup.7A268750" = "all"
+	"last_search.310DEAF1" = "item index"
+	"OpenInspectorPreview.310DEAF1" = "1"
+	"currentGroup.310DEAF1" = "all"
 }
 providers = {
 	packages = {
@@ -64,6 +67,7 @@ objectSelectors = {
 recentSearches = [
 ]
 searchItemFavorites = [
+	"Component/Scripts/Item Index"
 ]
 savedSearchesSortOrder = 0
 showSavedSearchPanel = false

@@ -19,6 +19,8 @@ public class InventoryManager : MonoBehaviour
             Instance = this; 
         }
     }
+    //The full list of items 
+    public ItemIndex itemIndex;
 
     [Header("Tools")]
     //Tool Slots
