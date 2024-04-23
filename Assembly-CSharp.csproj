@@ -65,20 +65,20 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\invetory\InventoryManager.cs" />
-    <Compile Include="Assets\Scripts\Scene Transtion\LocationEntryPoint.cs" />
     <Compile Include="Assets\Scripts\Farming\Land.cs" />
     <Compile Include="Assets\Scripts\Farming\GrowableHarvestBehaviour.cs" />
     <Compile Include="Assets\Scripts\invetory\ItemData.cs" />
     <Compile Include="Assets\Scripts\UI\InventorySlot.cs" />
-    <Compile Include="Assets\Scripts\Scene Transtion\SceneTranstionManager.cs" />
     <Compile Include="Assets\Scripts\Time\TimeManager.cs" />
     <Compile Include="Assets\Scripts\Time\GameTimeStamp.cs" />
     <Compile Include="Assets\Scripts\PlayerInteraction.cs" />
-    <Compile Include="Assets\Scripts\Scene Transtion\LocationManager.cs" />
+    <Compile Include="Assets\Scripts\Scene Transition\SceneTransitionManager.cs" />
+    <Compile Include="Assets\Scripts\Scene Transition\StartPoint.cs" />
     <Compile Include="Assets\Scripts\invetory\SeedData.cs" />
     <Compile Include="Assets\Scripts\invetory\InteactableObject.cs" />
     <Compile Include="Assets\Scripts\invetory\EquipmentData.cs" />
-    <Compile Include="Assets\Scripts\ParentedAnimationEvent.cs" />
+    <Compile Include="Assets\Scripts\Scene Transition\LocationEntryPoint.cs" />
+    <Compile Include="Assets\Scripts\Scene Transition\LocationManager.cs" />
     <Compile Include="Assets\Scripts\UI\HandInventorySlot.cs" />
     <Compile Include="Assets\Scripts\Farming\CropBehaviour.cs" />
     <Compile Include="Assets\Scripts\Time\ITimeTracker.cs" />
@@ -86,7 +86,6 @@
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\invetory\ItemSlotData.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
-    <Compile Include="Assets\Scripts\Scene Transtion\startingPoint.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

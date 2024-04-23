@@ -3,9 +3,8 @@
     "",
     "\\Assets",
     "\\Assets\\Scripts",
-    "\\Assets\\Scripts\\Scene Transtion",
     "\\Assets\\Scripts\\UI"
   ],
-  "SelectedNode": "\\Assets\\Scripts\\Scene Transtion\\sceneTranstionManager.cs",
+  "SelectedNode": "\\Assets\\Scripts\\UI\\UIManager.cs",
   "PreviewInSolutionExplorer": false
 }

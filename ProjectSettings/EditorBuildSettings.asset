@@ -10,8 +10,8 @@ EditorBuildSettings:
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
     path: Assets/Scenes/playerhome.unity
-    guid: e72a6220b4bcc134c8eb7a53f9b5fea7
+    guid: 20d7a39762aba3546999270d41b1393e
   - enabled: 1
     path: Assets/Scenes/Town.unity
-    guid: e0a7827e9717b1147a085e1a063456e2
+    guid: 41971f29c93938b43bc368c9a32af722
   m_configObjects: {}
